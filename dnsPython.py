@@ -1,7 +1,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: DnsScan python.                                          ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 0.1                                                       ##
 ## CREATION DATE: 04/06/2022                                          ##
 ##                                                                    ##
